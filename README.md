@@ -1,4 +1,4 @@
-# Hc-One
+# HC-One
 ## STRUCTURED ABSTRACT  
 ### Context  
 HC-One currently scours through thousands of applications every week for care home workers and
