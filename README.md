@@ -8,6 +8,7 @@ and may result in the loss of quality candidates.
 ### Objectives
 The main objective of this investigation is to evaluate whether each candidate would be a successful
 hire or not using the CRISP-DM framework. This would simplify the recruitment process and
-reduce the time and resources required to review each applicant.
+reduce the time and resources required to review each applicant.  
+  
 [Additional Details](https://github.com/raj-akhil/Hc-One/blob/main/CSC8633_Group_6_Report.pdf)
  
